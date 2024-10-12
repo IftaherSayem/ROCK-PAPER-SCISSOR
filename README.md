@@ -1,1 +1,1 @@
-><b>RUN</b>
+><b>RUN THIS IN TERMINAL </b>
