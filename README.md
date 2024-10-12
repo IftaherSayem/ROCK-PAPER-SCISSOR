@@ -1,1 +1,2 @@
-><b>RUN THIS IN TERMINAL </b>
+><b>ROCK-PAPER-SCISSOR</b>
+>
